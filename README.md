@@ -43,12 +43,25 @@
 
 | 사이트 | 방법 |
 | --- | --- |
-| https://www.opensubtitles.org/ko/search/sublanguageid-kor | 1. 수동
-2. 크롤링 코드 제작 |
+| https://www.opensubtitles.org/ko/search/sublanguageid-kor | 1. 수동|
+2. 크롤링 코드 제작 
 | youtube - playlists 한국어 자막 있는. | 1. youtube api 활용 |
 - 코드 진행상황
     
-    없음
+
+- 대상 데이터셋 youtube 카테고리
+
+[] 음식
+[] 여행
+[] 게임
+[] 뉴스
+[] 기술
+[] 과학
+[] 예능
+[] v-log
+[] etc...
+
+|재생목록|태그|
     
 
 ---
